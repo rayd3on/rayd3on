@@ -51,7 +51,7 @@
 </details>
 
 <details>
-  <summary>📈 My Github Stats(I am new to Github </summary>
+  <summary>📈 My Github Stats(I am new to Github) </summary>
 
   <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=rayd3on&show_icons=true&hide_border=true" />
 
