@@ -1,13 +1,11 @@
-### Hey, I'm Ray [rayds][website] 👋
+### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
 
-[![Website](https://img.shields.io/website?label=rayds.tech&style=for-the-badge&url=https%3A%2F%2Frayds.tech)]
-(https://rayds.tech)
-[![Github Follow](https://img.shields.io/github/followers/rayd3on?label=Follow%20me%21&style=social)]
-(https://rayds.tech/github)
+[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
+[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
-## I'm an 18yr Old Freelancer, Who is a coding enthusiast 🥳
+## I'm a Husband, Father, Developer, and Teacher!
 
-- 🔭 I’m currently working on a [Discord Bot Project][https://passione.tech]!
+- 🔭 I’m currently working on a [VS Code Course][website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
