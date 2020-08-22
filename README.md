@@ -5,10 +5,10 @@
 
 ## I'm an 18yr old Freelancer , Coder , Designer..
 
-- 🤖 I’m currently working on a [Discord Bot Project][passione]!
-- I’m currently learning everything 🤣
-- 🕰️ 2020 Goals: ~~2020~~ hmmm , ⚠️
-- 🛒 I also provide various services at my [Website][website] 
+- I’m currently working on a [Discord Bot Project][passione]!
+- I’m currently learning everything
+- 2020 Goals: ~~2020~~ hmmm , ⚠️
+- I also provide various services at my [Website][website] 🛒
 
 ### Connect with me:
 
