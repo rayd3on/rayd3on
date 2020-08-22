@@ -61,7 +61,7 @@
 [passione]: https://discord.gg/d8yS5eH
 [css]: https://en.wikipedia.org/wiki/Cascading_Style_Sheets
 [discord]: https://discord.gg/d8yS5eH
-[twitter]: https://twitter.com/raydeon
+[twitter]: https://twitter.com/
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/adharvs
 [linkedin]: https://linkedin.com/in/codeSTACKr
