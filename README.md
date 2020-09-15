@@ -1,7 +1,7 @@
 ### Hey I'm Ray - aka [RayDs][website] 👋
 
 [![Website](https://img.shields.io/website?label=rayds.tech&style=for-the-badge&url=https%3A%2F%2Frayds.tech)](https://rayds.tech)
-[![Github Follow](https://img.shields.io/github/followers/rayd3on?style=social)](https://github.com/rayd3on) -Website is down due to an outage in the host!
+[![Github Follow](https://img.shields.io/github/followers/rayd3on?style=social)](https://github.com/rayd3on) 
 
 ## I'm an 18yr old Freelancer , Coder , Designer..
 
