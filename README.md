@@ -1,4 +1,4 @@
-### Hey I'm Ray - aka [RayDs][website] 👋
+### Hey I'm Ray - aka [RayDeon][website] 👋
 
 [![Website](https://img.shields.io/website?label=rayds.tech&style=for-the-badge&url=https%3A%2F%2Frayds.tech)](https://rayds.tech)
 [![Github Follow](https://img.shields.io/github/followers/rayd3on?style=social)](https://github.com/rayd3on) 
