@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=rayds.tech&style=for-the-badge&url=https%3A%2F%2Frayds.tech)](https://rayds.tech)
 [![Github Follow](https://img.shields.io/github/followers/rayd3on?style=social)](https://github.com/rayd3on) 
 
-## I'm a 16yr old Freelancer , Coder , Designer..
+## I'm a 16yr old Freelancer , Programmer , Designer..
 
 - I’m currently working on a [Discord Bot Project][passione]!
 - I’m currently learning everything
