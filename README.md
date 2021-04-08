@@ -63,7 +63,7 @@
 [discord]: https://discord.gg/d8yS5eH
 [twitter]: https://twitter.com/
 [youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/adharvs
+[instagram]: https://instagram.com/ig_raydeon
 [linkedin]: https://linkedin.com/in/codeSTACKr
 [vsc]: https://code.visualstudio.com/
 [html5]: https://en.wikipedia.org/wiki/HTML5
