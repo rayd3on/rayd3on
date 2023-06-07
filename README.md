@@ -61,11 +61,11 @@
 
 </details>
 
-[website]: https://rayds.tech
+[website]: https://raydeon.cloud
 [passione]: https://discord.gg/d8yS5eH
 [css]: https://en.wikipedia.org/wiki/Cascading_Style_Sheets
 [discord]: https://discord.gg/d8yS5eH
-[twitter]: https://twitter.com/
+[twitter]: https://twitter.com/rayd3on
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/ig_raydeon
 [linkedin]: https://linkedin.com/in/codeSTACKr
