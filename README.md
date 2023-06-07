@@ -37,7 +37,7 @@
 <br />
 <br />
 
-
+---
 
 <details>
   <summary>Projects</summary>
