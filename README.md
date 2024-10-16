@@ -8,7 +8,6 @@
 - I’m currently working on a [Discord Bot Project][passione]!
 - I’m currently learning everything
 - 2024 Goals: ~~2024~~ hmmm , ⚠️
-- I also provide various services at my [Website][website] 🛒
 
 ### Connect with me:
 
