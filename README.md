@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=raydeon.cloud&style=for-the-badge&url=https%3A%2F%2Fraydeon.cloud)](https://raydeon.cloud)
 [![Github Follow](https://img.shields.io/github/followers/rayd3on?style=social)](https://github.com/rayd3on) 
 
-## I'm an 19yr old Freelancer, Programmer, Designer...
+## I'm a 19yr old Freelancer, Programmer, Designer...
 
 - I’m currently working on a [Discord Bot Project][passione]!
 - I’m currently learning everything.
