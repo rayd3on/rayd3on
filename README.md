@@ -55,10 +55,6 @@
       <img src="https://avatars2.githubusercontent.com/u/69858944?s=60&v=4" alt="Github" width="24" height="24" />
       <a href="https://discord.gg/d8yS5eH" title="Passione">Passione</a> (<strong>Advanced Discord Bot</strong>)
     </li>
-    <li>
-      <img src="https://media.discordapp.net/attachments/741206496775503982/746818061209960599/pokemon_PNG14.png?width=532&height=560" alt="Poke" width="24" height="25" />
-      <a href="https://discord.gg/3nKgP3T" title="Poke">Pokecore</a> (<strong>2K+ Server, Under development!</strong>)
-    </li>
   </ul>
 </details>
 
