@@ -1,9 +1,9 @@
 ### Hey I'm Ray - aka [RayDeon][website] 👋
 
-[![Website](https://img.shields.io/website?label=raydeon.cloud&style=for-the-badge&url=https%3A%2F%2Fraydeon.cloud)](https://raydeon.cloud)
+[![Website](https://img.shields.io/website?label=thezero.day&style=for-the-badge&url=https%3A%2F%2Fthezero.day)](https://thezero.day)
 [![Github Follow](https://img.shields.io/github/followers/rayd3on?style=social)](https://github.com/rayd3on) 
 
-## I'm a 19yr old Freelancer, Programmer, Designer...
+## I'm a 20yr old Freelancer, Programmer, Designer...
 
 - I’m currently working on a [Discord Bot Project][passione]!
 - I’m currently learning everything.
