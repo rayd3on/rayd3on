@@ -7,7 +7,7 @@
 
 - I’m currently working on a [Discord Bot Project][passione]!
 - I’m currently learning everything.
-- 2024 Goals: ~~2024~~ hmmm, ⚠️
+- 2025 Goals: ~~2025~~ hmmm, ⚠️
 
 ### Connect with me:
 
