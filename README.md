@@ -56,6 +56,8 @@ I’m a **20-year-old developer, freelancer, and founder of ZeroDay** — buildi
 
 ---
 
-## 📊 GitHub Stats
-<img align="left" alt="rayd3on's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rayd3on&count_private=true" />
+<details>
+  <summary>📈 My GitHub Stats</summary>
+  <img align="left" alt="rayd3on's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rayd3on&count_private=true" />
+</details>
 
