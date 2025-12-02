@@ -57,7 +57,7 @@
 
 <details>
   <summary>📈 My GitHub Stats</summary>
-  
+  <br>
   <img align="left" alt="rayd3on's Github Stats" src="https://stats-ghtub.vercel.app/api?username=rayd3on&theme=github_dark" />
 </details>
 
