@@ -1,4 +1,4 @@
-# 👋 Hey, I’m **Adharv Suresh** — aka **Ray**
+# 👋 Hey, I’m **Adharv S** — aka **Ray**
 
 [![Website](https://img.shields.io/website?label=thezero.day&style=for-the-badge&url=https%3A%2F%2Fthezero.day)](https://thezero.day)
 [![GitHub Follow](https://img.shields.io/github/followers/rayd3on?style=social)](https://github.com/rayd3on)
