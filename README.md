@@ -10,9 +10,10 @@
 **20-year-old Developer • Freelancer • Founder of ZeroDay • Backend | Cybersecurity**
 ---
 
-- **Founder of ZeroDay** — a suite of automation + SaaS projects  
-- **Creator of Discortics (Rewrite in Rust)** — used by **20M+ users across 80K servers**  
-- **Developer @ Vexvo Private Limited**  
+- **[Founder of ZeroDay](https://thezero.day)** — a suite of automation + SaaS projects  
+- **[Worked on Discortics](https://discortics.com/)** — powering 20M+ users across 80K servers  
+- **[Developer @ Vexvo Private Limited](https://www.linkedin.com/company/vexvo/)**  
+
 
 ---
 
