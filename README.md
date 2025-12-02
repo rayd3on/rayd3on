@@ -14,16 +14,6 @@
 - **Worked on [Discortics](https://discortics.com/)** — powering 20M+ users across 80K servers  
 - **Developer @ [Vexvo Private Limited](https://www.linkedin.com/company/vexvo/)**  
 
----
-
-## 🤝 Connect With Me
-
-[![Website](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://thezero.day)  
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/d8yS5eH)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rayd3on)  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ig_raydeon)
-
----
 
 ## 🧰 Tech & Tools I Work With
 
