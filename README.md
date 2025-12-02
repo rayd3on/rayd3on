@@ -7,8 +7,7 @@
 
 ## 🚀 About Me
 
-I’m a **20-year-old developer, freelancer, and founder of ZeroDay** — building automation tools, Discord ecosystems. 
-
+**20-year-old Developer • Freelancer • Founder of ZeroDay • Backend | Cybersecurity**
 ---
 
 - **Founder of ZeroDay** — a suite of automation + SaaS projects  
