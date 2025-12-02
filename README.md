@@ -17,17 +17,6 @@ I’m a **20-year-old developer, freelancer, and founder of ZeroDay** — buildi
 
 ---
 
-## 🎯 2025 Roadmap
-
-- Ship the **Discortics Rust rewrite**  
-- Release the **Indian Stock Market SaaS**  
-- Launch **ZeroDay OS** – automation + infra suite  
-- Grow ZeroDay into a **long-term revenue engine**  
-- Build more open-source tools  
-- Learn, break, fix, repeat 💀
-
----
-
 ## 🤝 Connect With Me
 
 [![Website](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://thezero.day)  
@@ -68,6 +57,5 @@ I’m a **20-year-old developer, freelancer, and founder of ZeroDay** — buildi
 ---
 
 ## 📊 GitHub Stats
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=rayd3on&count_private=true&show_icons=true&theme=tokyonight" />
+<img align="left" alt="rayd3on's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rayd3on&count_private=true" />
 
