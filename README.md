@@ -11,7 +11,7 @@
 ---
 
 - **Founder of [ZeroDay](https://thezero.day)** — a suite of automation + SaaS projects  
-- **Worked on [Discortics](https://discortics.com/)** — powering 20M+ users across 80K servers  
+- **Worked on [Discortics](https://discortics.com/)** — powering 20M+ users across 80K servers on Discord
 - **Developer @ [Vexvo Private Limited](https://www.linkedin.com/company/vexvo/)**  
 
 
