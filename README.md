@@ -25,7 +25,6 @@ I build and scale systems, products, and brands - working across backend enginee
 - Backend systems & scalable infrastructure  
 - Automation & SaaS product development  
 - Cybersecurity fundamentals  
-- Business strategy & execution through Narrativ  
 
 ---
 
